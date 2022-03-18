@@ -1,0 +1,11 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "A game for tamagotchi lovers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
